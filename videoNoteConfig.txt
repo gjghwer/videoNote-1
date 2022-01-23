@@ -3,5 +3,6 @@
 "appname":"",
 "xiaoshuoname":"",
 "ad_privider":0,
-"version":2
+"check_version":1,
+“ischecking”:true
 }
