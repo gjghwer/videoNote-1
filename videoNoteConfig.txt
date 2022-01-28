@@ -3,6 +3,6 @@
 "appname":"",
 "xiaoshuoname":"",
 "ad_privider":2,
-"check_version":3,
+"check_version":4,
 "check_state":2
 }
