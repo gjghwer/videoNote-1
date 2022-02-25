@@ -1,6 +1,6 @@
 {
 "to_new_app":1,
-"appname":com.online.videonote2"",
+"appname":"com.online.videonote2",
 "xiaoshuoname":"",
 "ad_privider":1,
 "check_version":7,
